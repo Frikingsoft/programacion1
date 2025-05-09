@@ -1,5 +1,4 @@
 let usuarios =[]
-asdadsads
 const agregar_usuario = (nombre,apellido,cedula)=>{
     if(nombre && apellido && cedula){
         let usuario = {
