@@ -1,0 +1,22 @@
+{
+  "name": "servidor.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frikingsoft/programacion1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frikingsoft/programacion1/issues"
+  },
+  "homepage": "https://github.com/Frikingsoft/programacion1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
