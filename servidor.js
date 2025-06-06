@@ -12,6 +12,8 @@ hbs.registerPartials(path.join(__dirname, '/views/partials'));
 servidor.get("/",(req,res)=>{
     res.render("index.hbs")
 })
-servidor.get("/usuario",(req,res)=>{
-   
+// GET POST PUT DELETE
+// "/"  ()=>{}
+servidor.get("/carrito",(req,res)=>{
+    res.render("carrito.hbs")
 })
