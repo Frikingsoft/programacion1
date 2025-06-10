@@ -58,7 +58,14 @@
 
 .botones:hover{
     background-color: white;
-    color: rgb(12, 39, 96);
+    
     transition: 1s; 
 }
 
+.subrayado{
+    text-decoration: none;
+    color: white;
+}
+.subrayado:hover{
+    color: rgb(12, 39, 96);
+}
